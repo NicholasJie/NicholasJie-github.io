@@ -3,7 +3,7 @@
         <div style="width: ;">
             <el-input v-model="username"></el-input>
             <el-input v-model="password"></el-input>
-            <el-button @click="login">登录</el-button>
+            <el-button @click="login">登录1</el-button>
             <el-button @click="enroll">注册</el-button>
             <el-button @click="huoqu">获取数据</el-button>
             <!-- <el-button @click="getxw">获取新闻</el-button> -->
